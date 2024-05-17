@@ -27,8 +27,7 @@ const Value = () => {
                 <div className="flexColStart v-right r-head">                 
                     <span className='orangeText'>About Us</span>
                     <span className='primaryText '>HealBuddy</span>
-                    <span className='secondaryText hel'>HealBuddy is a conservative form of wellness for our muscles. It offers customized care continuum for muscle strengthening that helps in preventing muscle degeneration, strengthening muscles after any surgical episodes or treating musculoskeletal conditions that causes pain.
-                     </span>
+                    <span className='secondaryText hel'>HealBuddy is a conservative form of wellness for your muscles that customizes a continuum of care. The care helps in strengthening muscles, preventing muscle degeneration and treating musculoskeletal conditions that cause pain. It is also capable of care to conditions that have been prescribed surgery  or are post surgical in nature.</span>
 
                     <Accordion
                         className='accordion'
